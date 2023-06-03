@@ -1,0 +1,1 @@
+Understands characters must come first 

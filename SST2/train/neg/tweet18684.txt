@@ -1,0 +1,1 @@
+Start to drag as soon as the action speeds up 
